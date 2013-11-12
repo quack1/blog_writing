@@ -22,6 +22,8 @@ Voici le plan des points qu'il aborde :
 - La chute
 - L'édition du livre
 
+Pour ceux qui le souhaite, j'ai parlé d'[une version texte de ses conseils sur un autre billet de ce blog]({filename}/conseils_ecriture_werber.md)
+
 &nbsp;
 
 Trouvé sur [Envie D'écrire](http://www.enviedecrire.com/suivez-un-atelier-decriture-avec-bernard-werber/)

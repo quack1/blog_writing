@@ -8,7 +8,7 @@ Summary: Harry Potter est l'une des séries de livres à s'être [le mieux vendu
 
 À moins d'avoir passé les 15 dernières années au fond de l'Antarctique — et encore — je pense que vous connaissez tous [Harry Potter](https://fr.wikipedia.org/wiki/Harry_Potter), l'une des séries de livres totalisant le [plus de ventes de l'Histoire](https://en.wikipedia.org/wiki/List_of_est-selling_books#List_of_best-selling_book_series "Wikipedia : List of best-selling book series").
 
-Une des grandes forces de ce livre est que tout le monde, jeune ou moins jeune, peut le lire et trouver un vecteur d'identification au Héros. Ceci est très clairement lié au talent d'auteure de [J.K. Rowling](https://fr.wikipedia.org/wiki/J._K._Rowling), et à la façon dont elle sait raconter ses histoires.
+Une des grandes forces de ce livre est que tout le monde, jeune ou moins jeune, peut le lire et trouver un vecteur d'identification au Héros. Ceci est très clairement lié au talent d'auteur de [J.K. Rowling](https://fr.wikipedia.org/wiki/J._K._Rowling), et à la façon dont elle sait raconter ses histoires.
 
 Justement, le site [Write Like Rowling](http://writelikerowling.com "Write Like Rowling") — en anglais — détaille les différentes techniques utilisées par Rowling dans ses livres. Un article en particulier m'a frappé : « _The Boy Who Lived: How Rowling Hooked Her Readers on Page One (And You Can Too)_ ». La bloggeuse examine en détails la première page, les premiers paragraphes du premier tome d'Harry Potter, et nous montre comment, en seulement quelques phrases, J.K Rowling nous donne envie de tourner la première page pour lire la suite de son histoire.
 
@@ -18,7 +18,7 @@ Le premier paragraphe commence ainsi :
 
 > Mr et Mrs Dursley, qui habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu'ils étaient parfaitement normaux, merci pour eux.
 
-Elle présente, dès la première ligne, deux personnages majeurs de l'histoire, auxquels les lecteurs commencent à penser. Elle leur donne du corps en ajoutant des détails : elle leur donne une adresse complète. Cette adresse contribue d'ailleurs à montrer qu'ils sont « parfaitement normaux ». Et s'ils sont si normaux, quelque chose de potentiellement anormal va sûrement arriver 😉 Et tout ceci ne provient que d'une phrase !
+Elle présente, dès la première ligne, deux personnages majeurs de l'histoire, auxquels les lecteurs commencent à penser. Elle leur donne du corps en ajoutant des détails : elle leur donne une adresse complète. Cette adresse contribue d'ailleurs à montrer qu'ils sont « parfaitement normaux ». Et s'ils sont si normaux, quelque chose de potentiellement anormal va sûrement arriver 😉. Et tout ceci ne provient que d'une phrase !
 
 > Jamais quiconque n'aurait imaginé qu'ils puissent se trouver impliqués dans quoi que ce soit d'étrange ou de mystérieux. Ils n'avaient pas de temps à perdre avec des sornettes.
 

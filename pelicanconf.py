@@ -23,7 +23,6 @@ TRANSLATION_FEED_ATOM = None
 DEFAULT_PAGINATION = 10
 
 DISPLAY_PAGES_ON_MENU  = True
-#DIRECT_TEMPLATES = ('about', 'archives', '404', 'index')
 
 # Blogroll
 LINKS =  (('Me', 'http://me.quack1.me/'),
@@ -31,7 +30,8 @@ LINKS =  (('Me', 'http://me.quack1.me/'),
 
 # Social widget
 SOCIAL = (('<i class="fa-icon-twitter"></i>', 'https://twitter.com/_Quack1'),
-          ('<i class="fa-icon-envelope-alt"></i>', 'mailto:quack+writing@quack1.me'),)
+          ('<i class="fa-icon-envelope-alt"></i>', 'mailto:quack+writing@quack1.me'),
+	  ('<i class="fa-icon-rss"></i>', FEED_ALL_ATOM))
 TWITTER_USERNAME = '_Quack1'
 
 GOOGLE_ANALYTICS = 'UA-41598568-2'

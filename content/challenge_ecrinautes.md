@@ -5,7 +5,6 @@ Category: Écriture
 Tags: Écrinautes, Écriture, Challenge
 Slug: challenge_ecrinautes
 Summary: Vu que le NaNoWriMo et le Projet Bradbury sont un peu trop « costauds » pour moi, j'ai décider de me fixer un objectif plus à mon niveau en participant au challenge d'écriture régulière des Écrinautes.
-Status: draft
 
 Je le mentionnais dans mon [article]({filename}/projet_bradbury.md "Projet Bradbury : 52 semaines ⇒ 52 nouvelles") sur le [Projet Bradbury](http://actualitte.com/blog/projetbradbury/le-projet-bradbury-cest-quoi/ "Le projet Bradbury, c'est quoi ?"), le [NaNoWriMo](http://nanowrimo.org/ "National Novel Writing Month") ce n'est pas un projet pour moi. Devoir écrire 50 000 mots en 1 mois, c'est un peu trop, même si le NaNo est un super projet que j'espère pouvoir essayer un jour. 
 

@@ -59,3 +59,7 @@ Hormis la « forme », le fond est lui aussi excellent. L'auteur dénonce les d�
 Je vous le dit, j'ai **adoré** lire ce livre. 
 
 Alors par contre, non, il n'est pas [libre](https://fr.wikipedia.org/wiki/%C5%92uvre_libre), mais courrez quand même l'acheter, il vaut **vraiment** ses 20€! 😃
+
+# EDIT du 29/11/2013
+
+L'émission « Le 10-13 », de la radio _Le Mouv'_ a sorti un podcast qui parle du comic. Réécoutable [ici](http://www.lemouv.fr/player/reecouter?play=109976).

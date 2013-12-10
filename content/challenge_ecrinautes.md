@@ -1,4 +1,4 @@
-Title: Je participe au challenge &#35;LesEcrinautes
+Title: Je participe au challenge #LesEcrinautes
 Date: 2013-11-25 10:37
 Author: Quack1
 Category: Écriture

@@ -2,7 +2,7 @@ Title: Suivez un atelier d'écriture avec Bernard Werber
 Date: 2013-10-26 14:13
 Author: Quack1
 Category: Techniques d'écriture
-Tags: Atelier d'écriture, Techniques d'écriture, Bernard Werber
+Tags: Atelier d'écriture, Techniques d'écriture, Bernard Werber, Vidéo
 Slug: atelier_ecriture_werber
 Summary: Bernard Werber, célèbre pour ses livres comme _Les Thanatonautes_ ou _Les Fourmis_ a donné il y a quelques temps (au moins 1 an) un atelier d'écriture au Casino de Deauville. <br/> Cet atelier a été filmé et diffusé sur YouTube, ce qui me permet de le _linker_ ici pour le garder sous la main!
 

@@ -2,7 +2,7 @@ Title: <i>Paints On The Wall</i>, 0. Prologue #LesEcrinautes
 Date: 2013-11-25 20:01
 Author: Quack1
 Category: Fiction
-Tags: Écriture, Écrits, Fiction, Écrinautes, Paints On The Wall
+Tags: Écriture, Écrits, Fiction, Écrinautes, Paints On The Wall, Chapitre 0, Prologue
 Slug: ecrinautes_1_potw_0
 Summary: Premier texte publié dans le cadre du challenge « Les Écrinautes », et prologue de ma nouvelle _« Paints On The Wall »_.
 

@@ -23,3 +23,7 @@ Ce fût donc avec la plus grande surprise que Melinda Black ouvrit le refuge pou
 Bien loin des attentes de Melinda, à quelques rues de là, un jeune homme d'une trentaine d'années, pas sportif pour deux sous, courrait à perdre haleine en entrainant son bouledogue français à sa suite, pendu au bout de sa laisse. Pourquoi diable avait-il fallu que ce chien choisisse de s'arrêter pisser ici alors que la rue sous ce pont regorgeait de lampadaires ? Il comprenait mieux maintenant pourquoi ce bougre ne s'était pas réveillé quand son chien avait commencé à lever sa patte au dessus de lui. Gisant dans son sang, un trou béant au milieu du crâne, le pauvre sans-abri n'était plus vraiment en état de réagir.
 
 <div align=center><a href="http://bouquinautes.wordpress.com/2013/11/02/les-ecrinautes-challenge-decriture-mensuel"><img src="upload/logo_les_ecrinautes.png" width="300" height="87" id="logo_ecrinautes"/></a></div>
+
+<div align="right">
+<i>Le premier chapitre est également disponible sur ce blog <a href="http://writing.quack1.me/ecrinautes_2_potw_1.html">ici</a>. ></i>
+</div>

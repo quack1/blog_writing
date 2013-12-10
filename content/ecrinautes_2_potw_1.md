@@ -8,7 +8,7 @@ Summary: Premier chapitre de ma nouvelle _« Paints On The Wall »_ et néanmoin
 
 _Je publie, dans le cadre du challenge d'écriture [**&#35;LesEcrinautes**]({filename}/challenge_ecrinautes.md), une nouvelle en plusieurs chapitres, intitulée_ **[Paints on the Wall](http://writing.quack1.me/tag/paints-on-the-wall.html)**. 
 
-_En voici le premier chapitre, relativement court, qui va vous faire rentrer – j'espère – dans le feu de l'action ;-)._
+_Vous pouvez retrouver [le prologue ici]({filename}/ecrinautes_1_potw_0.md). En voici le premier chapitre, relativement court, qui va vous faire rentrer – j'espère – dans le feu de l'action ;-)._
 
 _Bonne lecture !_
 

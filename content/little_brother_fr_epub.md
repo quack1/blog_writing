@@ -1,4 +1,4 @@
-Title: _Little Brother_ de Cory Doctorow, en français et en e-book !
+Title: _Little Brother_ de Cory @doctorow, en français et en e-book !
 Date: 2014-01-05 01:54
 Author: Quack1
 Category: Bouquins

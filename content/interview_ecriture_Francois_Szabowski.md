@@ -6,7 +6,6 @@ Tags: Techniques d'écriture, Conseils, François Szabowski
 Slug: interview_ecriture_Francois_Szabowski
 Summary: François Szabowski, un auteur que je connaissais pas, donne dans une interview quelques unes de ses techniques d'écriture. J'écris un peu de la même façon que lui j'ai l'impression...
 Lang: fr
-Status: draft
 
 Je suis tombé aujourd'hui sur une interview de [François Szabowski](http://www.babelio.com/auteur/Francois-Szabowski/145788). Je ne connaissais pas du tout cet auteur, mais je ne rechigne pas à écouter ou lire les [conseils d'écriture d'auteurs](/tag/techniques-decriture.html) (publiés ou non).
 

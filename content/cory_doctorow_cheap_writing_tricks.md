@@ -40,7 +40,7 @@ Lang: fr
 
 Via [Locus Mag Online](http://www.locusmag.com/Perspectives/2014/01/cory-doctorow-cheap-writing-tricks/ "Cory Doctorow: Cheap Writing Tricks")
 
-Ces quelques conseils sur l'écriture sont signés [Cory Doctorow](https://twitter.com/@doctorow "@Doctorow sur Twitter") — auteur de [_Little Brother_]({filename}/little_brother_fr_epub.md) dont j'ai déjà parlé.
+Ces quelques conseils sur l'écriture sont signés [Cory Doctorow](https://twitter.com/doctorow "@Doctorow sur Twitter") — auteur de [_Little Brother_]({filename}/little_brother_fr_epub.md) dont j'ai déjà parlé.
 
 J'ai tiré du — long — article original quelques citations, que je pourrais encore résumer ainsi : 
 

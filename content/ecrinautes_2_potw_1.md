@@ -61,3 +61,7 @@ Il était à peine huit heures du matin et alors que le jeune inspecteur de la p
 [^brazilLibre]: En référence au cocktail le _Cuba Libre_, mélange de rhum et de _Coca‑Cola_. Le Brésil étant un des plus gros fabricants de café dans le monde (_NdA_).
 
 <div align=center><a href="http://bouquinautes.wordpress.com/2013/11/02/les-ecrinautes-challenge-decriture-mensuel"><img src="upload/logo_les_ecrinautes.png" width="300" height="87" id="logo_ecrinautes"/></a></div>
+
+<div align="right">
+<i>Le chapitre deux est également disponible sur <a href="http://writing.quack1.me/ecrinautes_3_potw_2.html">ce blog. ></a></i>
+</div>

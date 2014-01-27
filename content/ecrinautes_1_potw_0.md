@@ -25,5 +25,5 @@ Bien loin des attentes de Melinda, à quelques rues de là, un jeune homme d'une
 <div align=center><a href="http://bouquinautes.wordpress.com/2013/11/02/les-ecrinautes-challenge-decriture-mensuel"><img src="upload/logo_les_ecrinautes.png" width="300" height="87" id="logo_ecrinautes"/></a></div>
 
 <div align="right">
-<i>Le premier chapitre est également disponible sur ce blog <a href="http://writing.quack1.me/ecrinautes_2_potw_1.html">ici</a>. ></i>
+<i>Le premier chapitre est également disponible sur ce blog <a href="http://writing.quack1.me/ecrinautes_2_potw_1.html">ici. ></a></i>
 </div>

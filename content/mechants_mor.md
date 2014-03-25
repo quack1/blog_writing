@@ -1,4 +1,4 @@
-Title: Les noms en « -Mor- » sont-ils destinés à être attribué à des méchants ?
+Title: Les noms en « -Mor- » sont-ils voués à être attribués à des méchants ?
 Date: 2014-03-24 19:54
 Author: Quack1
 Category: Techniques d'écriture

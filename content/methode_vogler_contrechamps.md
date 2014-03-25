@@ -21,7 +21,7 @@ L'émission donne les grandes lignes de la méthode Vogler, et présente quelque
 
 Le point soulevé par l'émission est très intéressant. On retrouve — évidemment — des similitudes entre les différentes histoires créées à partir de cette méthode puisqu'elles utilisent le même _moule_. Mais il ne faut pas oublier que — justement — la méthode Vogler ne fait que définir l'architecture de l'histoire, elle donne les fondations qui permettent à l'histoire d'être solide, de ne pas avoir une structure bancale. Ce qui est important, c'est donc que le contenu (les personnages, l'intrigue, etc...) soient bien travaillés pour que l'histoire se singularise et ne paraisse pas complètement vide, ou qu'elle soit trop commune.
 
-
+<div align="center" style="color:#ccc;">☠</div> &nbsp;
 
 Pour ceux qui s'intéressent au sujet, Christopher Vogler sera à Paris pour une Masterclass au [mois d'avril prochain](http://www.dixit.fr/formation-dixit-masterclass-les-outils-de-la-narration-dirigee-par-christopher-vogler-26-2.html). Pour rappel, la dernière fois qu'il était présent en France, c'était en 2012, à Lyon, dans une édition sponsorisée par [Alexandre Astier](https://twitter.com/sgtpembry "@sgtpembry sur Twitter").
 

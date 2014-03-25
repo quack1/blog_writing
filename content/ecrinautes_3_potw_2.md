@@ -165,3 +165,7 @@ Il releva les yeux de la bouteille, et tout en même temps qu'il voyait le pisto
 Même s'il savait que tout cela se passait dans sa tête, cette sensation était assez flippante. Il leva la bouteille qu'il tenait en main, se dit qu'une bonne gorgée ne lui serait pas de trop pour chasser cette nana de son esprit, porta la bouteille à sa bouche, en bu une longue gorgée, et la posa en vrac sur le siège passager, tandis qu'il engageait la première vitesse et démarrait en trombe dans la rue déserte de Lakeland.
 
 <div align=center><a href="http://bouquinautes.wordpress.com/2013/11/02/les-ecrinautes-challenge-decriture-mensuel"><img src="/upload/logo_les_ecrinautes.png" width="300" height="87" id="logo_ecrinautes"/></a></div>
+
+<div align="right">
+<i>Le chapitre trois est également disponible sur <a href="http://writing.quack1.me/ecrinautes_4_potw_3.html">ce blog. ></a></i>
+</div>

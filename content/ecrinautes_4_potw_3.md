@@ -203,3 +203,7 @@ Durant sa patrouille, Mark avait vu des choses qu'il n'avait jamais vu auparavan
 [^1]: _My Generation_, par The Who, 1965.
 
 <div align=center><a href="http://bouquinautes.wordpress.com/2013/11/02/les-ecrinautes-challenge-decriture-mensuel"><img src="/upload/logo_les_ecrinautes.png" width="300" height="87" id="logo_ecrinautes"/></a></div>
+
+<div align="right">
+<i>Le chapitre quatre est également disponible sur <a href="http://writing.quack1.me/ecrinautes_5_potw_4.html">ce blog. ></a></i>
+</div>

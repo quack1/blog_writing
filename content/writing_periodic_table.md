@@ -9,7 +9,7 @@ Lang: fr
 
 C'est à cette question que répond la « [Périodic Table of Storytelling](http://designthroughstorytelling.net/periodic/) ».
 
-Presque identique à la [table périodique des éléments](TK) utilisée en chimie, cette table est composée de nombreux éléments, chacun étant une partie « atomique » avec laquelle on peut représenter une histoire.
+Presque identique à la [table périodique des éléments](https://fr.wikipedia.org/wiki/Tableau_p%C3%A9riodique_des_%C3%A9l%C3%A9ments) utilisée en chimie, cette table est composée de nombreux éléments, chacun étant une partie « atomique » avec laquelle on peut représenter une histoire.
 
 Par exemple, [Star Wars](https://fr.wikipedia.org/star_wars) est modélisé de la façon suivante : 
 
